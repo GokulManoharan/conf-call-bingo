@@ -1,3 +1,5 @@
+ Play the game in this [codesandbox](https://codesandbox.io/s/github/GokulManoharan/notakto-react)
+
 
 ## Game rules
 - A player wins by completing a row, column, or diagonal.
