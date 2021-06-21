@@ -1,4 +1,4 @@
- Play the game in this [codesandbox](https://codesandbox.io/s/github/GokulManoharan/notakto-react)
+ Play the game in this [codesandbox](https://codesandbox.io/s/github/GokulManoharan/conf-call-bingo)
 
 
 ## Game rules
